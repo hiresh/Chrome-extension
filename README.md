@@ -2,9 +2,9 @@
 -------------------------------------------------------------------------------------------------------
 ##  personalize google
 
-> This extention replaces my picture when ever I visit google
-> This extention will work only for Indian users(for google.co.in domain)
-> Also a 'click me' button will appear in order to toggle the picture with animations
+> * This extention replaces my picture when ever I visit google
+> * This extention will work only for Indian users(for google.co.in url)
+> * Also a 'click me' button will appear in order to toggle the picture with animations
 
 ## Steps to add this extention to your computer
 
