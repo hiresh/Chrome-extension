@@ -1,0 +1,22 @@
+{
+  "manifest_version": 2,
+  "name": "Google customizer",
+  "version": "0.1",
+  "content_scripts": [
+    {
+      "matches": [
+        "https://www.google.co.in/*"
+      ],
+       "js": ["jquery.js","content.js"]
+       
+    }
+  ],
+  "browser_action":{
+  "default_title":"Hiresh's ext",
+  "default_popup":"popup.html",
+  "default_icon":"icon.png"
+  },
+  "permissions": [
+   "activeTab"
+   ]
+}
